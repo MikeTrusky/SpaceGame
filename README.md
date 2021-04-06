@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MikeTrusky/SpaceGame">
-    <img src="images/gameScreen.png" alt="Logo" width="80" height="80">
+    <img src="images/SpaceGameScreen.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Weird SpaceGame</h2>
